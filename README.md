@@ -1,6 +1,6 @@
 # springy ![GCI Badge](https://img.shields.io/badge/Google%20Code%20In-JBoss%20Community-red?style=flatr&labelColor=fdb900&link=https://codein.withgoogle.com/organizations/jboss-community/)
 ![Docker Pull Count](https://img.shields.io/docker/pulls/reaganiwadha/springy)
-![Screenshot of Springy](https://raw.githubusercontent.com/reaganiwadha/springy/raw/master/screenshot.png?raw=true)
+![Screenshot of Springy](https://raw.githubusercontent.com/reaganiwadha/springy/master/screenshot.png)
 
 Springy is a Java Springboot Application that can be easily deployed on a Wildfly Server
 
